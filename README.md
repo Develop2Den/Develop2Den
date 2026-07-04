@@ -2,25 +2,36 @@
 
 Java Backend Developer
 
-Spring Boot | REST API | PostgreSQL | Docker
+Java | Spring Boot | Spring Security | PostgreSQL | Docker
 
-I am a backend developer focused on building secure REST APIs using the Spring ecosystem.  
-Experienced in developing backend services, authentication systems, and working with relational databases.
+Java Backend Developer with commercial experience developing secure backend applications using Spring Boot.
+Passionate about designing reliable REST APIs, implementing modern security practices, and building maintainable 
+backend systems.
 
 ---
 
 ## Tech Stack
 
-Java  
-Spring Boot  
-Spring Security  
-PostgreSQL  
-Redis  
-Docker  
-JWT  
-MapStruct  
-REST API  
-JUnit / Mockito
+#Backend
+Java
+Spring Boot
+Spring Security
+Spring Data JPA
+Hibernate
+
+#Databases
+PostgreSQL
+Redis
+
+#Tools
+Docker
+Git
+Maven
+Flyway
+
+#Testing
+JUnit
+Mockito
 
 ---
 
@@ -28,6 +39,7 @@ JUnit / Mockito
 
 ### Personal Financier
 Personal finance management backend application.
+Production-oriented backend application with JWT authentication, Redis integration, financial analytics, and secure REST APIs.
 
 Tech stack:
 Java, Spring Boot, Spring Security, PostgreSQL, JWT, Redis
@@ -36,7 +48,7 @@ https://github.com/Develop2Den/Personal-financier
 
 
 ### Chat Your Way
-Real-time chat backend developed in a startup team.
+Commercial backend project where I maintained legacy code, implemented new features, and improved backend stability.
 
 Tech stack:
 Java, Spring Boot, Redis, Docker
