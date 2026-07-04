@@ -12,24 +12,24 @@ backend systems.
 
 ## Tech Stack
 
-#Backend
+#Backend - 
 Java
 Spring Boot
 Spring Security
 Spring Data JPA
 Hibernate
 
-#Databases
+#Databases - 
 PostgreSQL
 Redis
 
-#Tools
+#Tools - 
 Docker
 Git
 Maven
 Flyway
 
-#Testing
+#Testing - 
 JUnit
 Mockito
 
